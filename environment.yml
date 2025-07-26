@@ -15,3 +15,4 @@ dependencies:
   - jupyter
   - matplotlib
   - cmaps=2.0.1
+  - ipykernel
