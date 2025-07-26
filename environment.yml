@@ -1,0 +1,16 @@
+name: breaking-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.11
+  - numpy=2.3.2
+  - pymannkendall=1.4.3
+  - scipy=1.16.0
+  - pandas=2.2.2
+  - cartopy
+  - pip
+  - netcdf4
+  - jupyter
+  - matplotlib
+  - cmaps=2.0.1
+  - ipykernel
