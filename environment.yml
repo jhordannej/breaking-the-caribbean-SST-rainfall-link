@@ -9,6 +9,7 @@ dependencies:
   - pymannkendall=1.4.3
   - scipy=1.16.0
   - cartopy
+  - seaborn
   - pip
   - netcdf4
   - jupyter
