@@ -7,7 +7,6 @@ Go to [mybinder.org](mybinder.org) and run the following snippet to install pre-
 conda env create -f environment.yml
 conda activate breaking-env
 
-conda install -c anaconda ipykernel
 python -m ipykernel install --user --name=breaking-env
 ``` 
 
