@@ -4,9 +4,10 @@ channels:
 dependencies:
   - python=3.11.11
   - numpy=2.3.2
+  - xarray=2025.7.1
+  - pandas=2.2.2
   - pymannkendall=1.4.3
   - scipy=1.16.0
-  - pandas=2.2.2
   - cartopy
   - pip
   - netcdf4
