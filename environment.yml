@@ -8,6 +8,7 @@ dependencies:
   - scipy=1.16.0
   - pandas=2.2.2
   - xarray
+  - seaborn
   - cartopy
   - pip
   - netcdf4
