@@ -3,3 +3,6 @@ Render figures for the Clarke et al. manuscript "Breaking the Link: Warming disr
 
 ## Credits
 The notebooks were created by Dr. Jhordanne Jones. 
+
+### License
+MIT License
