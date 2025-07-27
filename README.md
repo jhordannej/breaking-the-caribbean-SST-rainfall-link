@@ -14,9 +14,9 @@ python -m ipykernel install --user --name=breaking-env
 
 #### View in Binder
 Notebooks can be viewed at [https://mybinder.org/v2/gh/jhordannej/breaking-the-caribbean-SST-rainfall-link/HEAD](https://mybinder.org/v2/gh/jhordannej/breaking-the-caribbean-SST-rainfall-link/HEAD). 
-- Open terminal and navigate to the binder folder.
+- Open terminal and navigate to the `/binder` folder.
 - Run `pip install -r requirements.txt` to install all dependencies and packages.
-- Navigate to the code folder and run notebooks.
+- Navigate to the `/code` folder and run notebooks.
   
 ## Credits
 The notebooks were created by Dr. Jhordanne Jones. 
