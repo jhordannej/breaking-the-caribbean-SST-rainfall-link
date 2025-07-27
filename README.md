@@ -17,7 +17,7 @@ Notebooks can be viewed and run online at [https://mybinder.org/v2/gh/jhordannej
   
 ## Additional Information
 ### Credits
-The notebooks were created by Dr. Jhordanne Jones at University of the West Indies Mona, and is written in Python. 
+The notebooks were created by Dr. Jhordanne Jones at the University of the West Indies Mona, and is written in Python. 
 
 ### License
 MIT License :copyright: Jhordanne Jones
