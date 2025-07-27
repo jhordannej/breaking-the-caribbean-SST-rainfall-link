@@ -15,8 +15,9 @@ Then, run `jupyter-notebook`. Navgivate to `/code` folder and run notebooks.
 #### Alternative 2: View in Binder
 Notebooks can be viewed at [https://mybinder.org/v2/gh/jhordannej/breaking-the-caribbean-SST-rainfall-link/HEAD](https://mybinder.org/v2/gh/jhordannej/breaking-the-caribbean-SST-rainfall-link/HEAD). Navigate to the `/code` folder and run the notebooks. No need to create a virtual environment since the `/binder` folder does this for you at build.
   
-## Credits
-The notebooks were created by Dr. Jhordanne Jones, and is written in Python. 
+## Additional Information
+### Credits
+The notebooks were created by Dr. Jhordanne Jones at University of the West Indies Mona, and is written in Python. 
 
-## License
+### License
 MIT License :copyright: Jhordanne Jones
