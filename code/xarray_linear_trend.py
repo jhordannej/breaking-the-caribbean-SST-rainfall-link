@@ -1,6 +1,5 @@
 # -------------------------------------------------------------------
-# Created by Jhordanne Jones. 
-# xarray_linear_trend.py function was made with the help of Gemini AI
+# Created by Jhordanne Jones with the help of Gemini AI
 # -------------------------------------------------------------------
 
 import xarray as xr
