@@ -17,7 +17,7 @@ Notebooks can be viewed at [https://mybinder.org/v2/gh/jhordannej/breaking-the-c
 - Navigate to the `/code` folder and run the notebooks. No need to create a virtual environment since the `/binder` folder does this for you at build.
   
 ## Credits
-The notebooks were created by Dr. Jhordanne Jones. 
+The notebooks were created by Dr. Jhordanne Jones, and is written in Python. 
 
 ### License
-MIT License
+MIT License 
