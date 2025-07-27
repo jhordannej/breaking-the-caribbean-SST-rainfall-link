@@ -175,6 +175,7 @@ matplotlib==3.10.3
     #   -r requirements.in
     #   cartopy
     #   cmaps
+    #   seaborn
 matplotlib-inline==0.1.7
     # via
     #   ipykernel
@@ -214,6 +215,7 @@ numpy==2.3.2
     #   pandas
     #   pymannkendall
     #   scipy
+    #   seaborn
     #   shapely
     #   xarray
 overrides==7.7.0
@@ -233,6 +235,7 @@ packaging==25.0
 pandas==2.3.1
     # via
     #   -r requirements.in
+    #   seaborn
     #   xarray
 pandocfilters==1.5.1
     # via nbconvert
@@ -317,6 +320,8 @@ scipy==1.16.0
     # via
     #   -r requirements.in
     #   pymannkendall
+seaborn==0.13.2
+    # via -r requirements.in
 send2trash==1.8.3
     # via jupyter-server
 shapely==2.1.1

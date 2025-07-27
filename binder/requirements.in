@@ -4,6 +4,7 @@ pymannkendall
 scipy
 pandas
 cartopy
+seaborn
 pip
 netcdf4
 jupyter
