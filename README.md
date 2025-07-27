@@ -19,5 +19,5 @@ Notebooks can be viewed at [https://mybinder.org/v2/gh/jhordannej/breaking-the-c
 ## Credits
 The notebooks were created by Dr. Jhordanne Jones, and is written in Python. 
 
-### License
-MIT License 
+## License
+MIT License :copyright: Jhordanne Jones
