@@ -13,7 +13,7 @@ python -m ipykernel install --user --name=breaking-env
 Then, run `jupyter-notebook`. Navgivate to `/code` folder and run notebooks. 
 
 #### Alternative 2: View in Binder
-Notebooks can be viewed at [https://mybinder.org/v2/gh/jhordannej/breaking-the-caribbean-SST-rainfall-link/HEAD](https://mybinder.org/v2/gh/jhordannej/breaking-the-caribbean-SST-rainfall-link/HEAD). Navigate to the `/code` folder and run the notebooks. No need to create a virtual environment since the `/binder` folder does this for you at build.
+Notebooks can be viewed and run online at [https://mybinder.org/v2/gh/jhordannej/breaking-the-caribbean-SST-rainfall-link/HEAD](https://mybinder.org/v2/gh/jhordannej/breaking-the-caribbean-SST-rainfall-link/HEAD). Navigate to the `/code` folder and run the notebooks. No need to create a virtual environment since the Binder installs all required packages in `/binder/requirements.txt` for you at build.
   
 ## Additional Information
 ### Credits
