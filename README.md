@@ -1,5 +1,5 @@
 # Render figures for "Breaking the Link: Warming disrupts early-season rainfall predictability in the Caribbean"
-This repository contains the data and jupyter notebooks used to render Figures 1-4 for the Clarke et al. manuscript "Breaking the Link: Warming disrupts early-season rainfall predictability in the Caribbean". 
+This repository contains the data and jupyter notebooks used to render Figures 1-5 for the Clarke et al. manuscript "Breaking the Link: Warming disrupts early-season rainfall predictability in the Caribbean". 
 
 ## How to run the notebooks
 #### Alternative 1: Download repository to your computer
