@@ -19,5 +19,8 @@ Notebooks can be viewed and run online at [https://mybinder.org/v2/gh/jhordannej
 ### Credits
 The notebooks were created by Dr. Jhordanne Jones at the University of the West Indies Mona, and is written in Python. 
 
+__Citation Info:__
+Jones, J. J., Clarke, L. A., Taylor, M. A., Williams, M. S. M., Edwards, T., & Stephenson, T. S. (2025). Data and Figure Codes for "Breaking the link: Warming disrupts early-season rainfall predictability in the Caribbean" (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16468534. 
+
 ### License
 MIT License :copyright: Jhordanne Jones
